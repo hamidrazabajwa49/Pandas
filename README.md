@@ -7,7 +7,7 @@ A structured collection of Jupyter notebooks covering the core pandas workflow �
 ## Repository Structure
 
 ```
-.
+Pandas
 ├── data/
 │   ├── practicedata.csv      # Full sales dataset (2,338 rows)
 │   └── practicedata.xlsx     # Smaller sample of the same schema (15 rows)
